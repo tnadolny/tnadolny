@@ -1,7 +1,6 @@
 Hi, I’m @tnadolny
-I’m a PhD candidate interested in quantum physics, synchronization and more.
+I’m a PhD candidate at University of Basel interested in (open) quantum systems, synchronization and more.
 
-How to reach me: University of Basel -> Physics -> Quantum Theory
 
 <!---
 tnadolny/tnadolny is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
